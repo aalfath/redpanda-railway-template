@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/redpanda-1?utm_medium=integration&utm_source=button&utm_campaign=redpanda)
+
 # Redpanda on Railway
 
 One-click Railway template for [Redpanda](https://github.com/redpanda-data/redpanda), a Kafka-compatible streaming platform, with [Kafbat UI](https://github.com/kafbat/kafka-ui) as a password-protected web console.

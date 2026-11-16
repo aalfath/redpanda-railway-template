@@ -2,6 +2,10 @@
 
 Deployers read this before applying an update from Railway's "update available" notice.
 
+## 2026-11-16: Deploy on Railway button
+
+- README only: the Deploy on Railway button at the top now links to the published template `redpanda-1`. Nothing to apply for running deployments.
+
 ## 2026-11-16: Redpanda v26.2.7, Kafbat UI v1.5.0
 
 - The template now builds both services from this repo (`redpanda/` and `kafbat/`) instead of running the images directly, so future version bumps reach deployers as Railway update notices.
